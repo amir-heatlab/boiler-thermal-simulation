@@ -9,3 +9,6 @@ It analyzes how warm-up time changes over days and visualizes system behavior us
 - NumPy
 - Pandas
 - Matplotlib
+## Result
+
+![Boiler Warmup](boiler_warmup.png)
